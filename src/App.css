@@ -1,0 +1,17 @@
+.sv{
+   font-weight: lighter;
+   font-weight: bold;
+   color:gray;
+    
+}
+.pizza{
+    color: coral;
+}
+.app{
+    display: flex;
+    flex-direction: column;
+}
+.df{
+    height: fit-content;
+    color: brown;
+}
